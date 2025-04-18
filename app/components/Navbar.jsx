@@ -137,11 +137,11 @@ const Navbar = () => {
 
         <ul
           ref={sideMenuRef}
-          className="flex md:hidden flex-col gap-4 py-20 px-10 fixed -right-64 top-0 bottom-0 w-64 z-50 h-screen bg-purple-900 transition duration-500"
+          className="flex md:hidden flex-col gap-4 py-20 px-10 fixed -right-64 top-0 bottom-0 w-64 z-50 h-screen bg-purple-900 transition duration-500 text-white"
         >
           <div className="absolute top-6 right-6" onClick={closeMenu}>
             <Image
-              src={assets.close_black}
+              src={assets.close_white}
               alt=""
               className="w-5 cursor-pointer"
             />
