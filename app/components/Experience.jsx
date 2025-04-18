@@ -1,5 +1,5 @@
-import React from 'react';
-import { motion } from 'framer-motion';
+import React from "react";
+import { motion } from "framer-motion";
 
 const Experience = () => {
   return (
@@ -35,28 +35,39 @@ const Experience = () => {
                   <h3 className="text-lg font-semibold text-purple-900">
                     Intern – Digital Transformation Team
                   </h3>
-                  <span className="text-sm text-gray-600">Jan 2025 – Present</span>
+                  <span className="text-sm text-gray-600">
+                    Jan 2025 – Present
+                  </span>
                 </div>
                 <p className="text-gray-600 italic text-base mb-3">
                   WSO2 LLC, Sri Lanka
                 </p>
                 <ul className="list-disc pl-5 space-y-2 text-gray-800 text-sm marker:text-purple-900">
                   <li>
-                    Worked on internal application development projects within the team.
+                    Worked on internal application development projects within
+                    the team.
                   </li>
                   <li>
                     Built and deployed features using{" "}
-                    <span className="font-medium text-purple-900">React, Ballerina, JWT, MySQL</span>, and{" "}
+                    <span className="font-medium text-purple-900">
+                      React, Ballerina, JWT, MySQL
+                    </span>
+                    , and{" "}
                     <span className="font-medium text-purple-900">Choreo</span>.
                   </li>
                   <li>
-                    Integrated <span className="font-medium text-purple-900">NetSuite</span> to enhance business process automation.
+                    Integrated{" "}
+                    <span className="font-medium text-purple-900">
+                      NetSuite
+                    </span>{" "}
+                    to enhance business process automation.
                   </li>
                   <li>
                     Participated in product demos and gathered client feedback.
                   </li>
                   <li>
-                    Collaborated with cross-functional teams to deliver secure, scalable solutions.
+                    Collaborated with cross-functional teams to deliver secure,
+                    scalable solutions.
                   </li>
                 </ul>
               </div>

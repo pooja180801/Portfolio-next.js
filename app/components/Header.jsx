@@ -67,21 +67,21 @@ const Header = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FaGithub className="w-6 h-6 text-purple-900 hover:scale-110 transition hover:text-black"/>
+          <FaGithub className="w-6 h-6 text-purple-900 hover:scale-110 transition hover:text-black" />
         </a>
         <a
           href="https://www.linkedin.com/in/pooja-kulachelvam-b02255246/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FaLinkedin className="w-6 h-6 text-purple-900 hover:scale-110 transition hover:text-black"/>
+          <FaLinkedin className="w-6 h-6 text-purple-900 hover:scale-110 transition hover:text-black" />
         </a>
         <a
           href="https://www.hackerrank.com/profile/kulampooja"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FaHackerrank className="w-6 h-6 text-purple-900 hover:scale-110 transition hover:text-black"/>
+          <FaHackerrank className="w-6 h-6 text-purple-900 hover:scale-110 transition hover:text-black" />
         </a>
       </motion.div>
 

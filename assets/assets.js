@@ -196,7 +196,7 @@ export const projectData = [
       "JWT",
     ],
     description:
-      "Imagify generates images from text prompts using OpenAI’s DALL·E. Users can download and share images, with features like prompt history, image storage via Cloudinary, and sleek UI with animations.",
+      "Imagify is a full-stack MERN application that converts text into images using Stability AI's text-to-image generation technology. It offers a seamless user experience with React and handles backend operations with Node.js and Express. Additionally, Imagify integrates Stripe for secure payments, allowing users to access premium features for high-quality image generation.",
     image: "/projects/imagify.png",
     githubLink: "https://github.com/pooja180801/imagify",
     liveDemo: "https://imagify-ai.vercel.app",

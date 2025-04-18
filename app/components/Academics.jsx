@@ -45,7 +45,9 @@ const Academics = () => {
               <div className="flex flex-col justify-between h-full">
                 <div>
                   <div className="flex justify-between items-baseline mb-2">
-                    <h3 className="text-lg font-semibold text-gray-800">{level}</h3>
+                    <h3 className="text-lg font-semibold text-gray-800">
+                      {level}
+                    </h3>
                     <span className="text-sm text-gray-500">{date}</span>
                   </div>
                   <p className="text-gray-600 text-sm mb-2">{school}</p>
