@@ -133,6 +133,14 @@ export const technologies = [
     name: "Ballerina",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ballerina/ballerina-original.svg",
   },
+  {
+    name: "MUI",
+    icon: "https://mui.com/static/logo.png",
+  },
+  {
+    name: "Bootstrap",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+  },
 ];
 
 export const tools = [
