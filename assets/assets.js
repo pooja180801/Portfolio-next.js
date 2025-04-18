@@ -196,7 +196,7 @@ export const projectData = [
       "JWT",
     ],
     description:
-      "Imagify is a full-stack MERN application that converts text into images using Stability AI's text-to-image generation technology. It offers a seamless user experience with React and handles backend operations with Node.js and Express. Additionally, Imagify integrates Stripe for secure payments, allowing users to access premium features for high-quality image generation.",
+      "Imagify is a MERN stack app that converts text into images using Stability AI's technology. It provides a smooth user experience with React, while Node.js and Express manage the backend. Stripe integration enables secure payments for premium image generation.",
     image: "/projects/imagify.png",
     githubLink: "https://github.com/pooja180801/imagify",
     liveDemo: "https://imagify-ai.vercel.app",
