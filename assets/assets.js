@@ -257,35 +257,6 @@ export const projectData = [
   },
 ];
 
-export const serviceData = [
-  {
-    icon: assets.web_icon,
-    title: "Web design",
-    description: "Web development is the process of building, programming...",
-    link: "",
-  },
-  {
-    icon: assets.mobile_icon,
-    title: "Mobile app",
-    description:
-      "Mobile app development involves creating software for mobile devices...",
-    link: "",
-  },
-  {
-    icon: assets.ui_icon,
-    title: "UI/UX design",
-    description:
-      "UI/UX design focuses on creating a seamless user experience...",
-    link: "",
-  },
-  {
-    icon: assets.graphics_icon,
-    title: "Graphics design",
-    description: "Creative design solutions to enhance visual communication...",
-    link: "",
-  },
-];
-
 export const infoList = [
   {
     icon: "https://cdn-icons-png.flaticon.com/512/194/194938.png", // Person icon
@@ -323,14 +294,6 @@ export const infoList = [
     title: "GPA",
     description: "3.78/4.00",
   },
-];
-
-export const toolsData = [
-  assets.vscode,
-  assets.firebase,
-  assets.mongodb,
-  assets.figma,
-  assets.git,
 ];
 
 export const educationData = [

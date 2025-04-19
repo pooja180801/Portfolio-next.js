@@ -36,7 +36,7 @@ const Experience = () => {
                     Intern – Digital Transformation Team
                   </h3>
                   <span className="text-sm text-gray-600 mt-1 sm:mt-0">
-                    Jan 2025 – Present
+                    Oct 2024 – Mar 2025
                   </span>
                 </div>
                 <p className="text-gray-600 italic text-base mb-3">
