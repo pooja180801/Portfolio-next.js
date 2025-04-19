@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const Experience = () => {
   return (
-    <div id="experience" className="max-w-7xl px-4 sm:px-6 lg:px-16 py-10 scroll-mt-20 mx-auto">
+    <div id="experience" className="max-w-4xl px-4 sm:px-6 lg:px-16 py-10 scroll-mt-20 mx-auto">
       <div className="p-4 sm:p-6">
         <motion.h4
           className="text-center text-3xl sm:text-4xl md:text-5xl font-ovo mb-8 text-purple-900"
